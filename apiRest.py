@@ -4,7 +4,7 @@
 import requests
 import re
 
-genre = "Drama"
+genre = "Action"
 
 def sanitize_input(input_str):
     # Elimina cualquier caracter no alfanumérico excepto espacios
